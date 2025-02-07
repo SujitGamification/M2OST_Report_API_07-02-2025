@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportM2OST", "ReportM2OST\ReportM2OST.csproj", "{3CD7CCD2-5F50-4F01-ACFA-0F9D21E0A280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD7CCD2-5F50-4F01-ACFA-0F9D21E0A280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD7CCD2-5F50-4F01-ACFA-0F9D21E0A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD7CCD2-5F50-4F01-ACFA-0F9D21E0A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD7CCD2-5F50-4F01-ACFA-0F9D21E0A280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF6876A-1675-481A-884F-642E755B9C0E}
+	EndGlobalSection
+EndGlobal
